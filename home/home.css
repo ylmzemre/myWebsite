@@ -1,11 +1,11 @@
 .text1 p{
-    color:crimson;
+    color:rgb(255, 255, 255);
     font-size: 100px;
-    background-color: coral;
+    background-color: rgb(129, 127, 126);
     text-align: center;
 
 }
 .text1{
     height: 100%;
-    background-color: blueviolet;
+    background-color: rgb(93, 92, 92);
 }
