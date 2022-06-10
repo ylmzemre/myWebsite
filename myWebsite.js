@@ -24,7 +24,7 @@ function initMap() {
           location.href = "index/index.html";
       };
       document.getElementById("myButton4").onclick = function () {
-          location.href = "home.html";
+          location.href = "";
       };
   
       
