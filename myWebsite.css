@@ -69,6 +69,7 @@
   /* Add a hover effect if you want */
   .fa:hover {
     opacity: 0.7;
+    
   }
   
   /* Set a specific color for each brand */
@@ -87,6 +88,10 @@
   .social{
       margin-left: 1300px;
     
+  }
+  .fa-linkedin {
+    background: #367fec;
+    color: white;
   }
 
   .php{
